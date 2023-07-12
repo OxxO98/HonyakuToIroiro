@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "./static/css/main.24ec84d3.chunk.css",
-    "main.js": "./static/js/main.401fb781.chunk.js",
-    "main.js.map": "./static/js/main.401fb781.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.f77acd58.js",
-    "runtime-main.js.map": "./static/js/runtime-main.f77acd58.js.map",
-    "static/css/2.741e3868.chunk.css": "./static/css/2.741e3868.chunk.css",
-    "static/js/2.266798cc.chunk.js": "./static/js/2.266798cc.chunk.js",
-    "static/js/2.266798cc.chunk.js.map": "./static/js/2.266798cc.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.a0bfc59817cbc3139290ec6a7ef7ca3a.js": "./precache-manifest.a0bfc59817cbc3139290ec6a7ef7ca3a.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/2.741e3868.chunk.css.map": "./static/css/2.741e3868.chunk.css.map",
-    "static/css/main.24ec84d3.chunk.css.map": "./static/css/main.24ec84d3.chunk.css.map",
-    "static/js/2.266798cc.chunk.js.LICENSE.txt": "./static/js/2.266798cc.chunk.js.LICENSE.txt"
+    "main.css": "/HonyakuToIroiro/static/css/main.24ec84d3.chunk.css",
+    "main.js": "/HonyakuToIroiro/static/js/main.b6459480.chunk.js",
+    "main.js.map": "/HonyakuToIroiro/static/js/main.b6459480.chunk.js.map",
+    "runtime-main.js": "/HonyakuToIroiro/static/js/runtime-main.38f53526.js",
+    "runtime-main.js.map": "/HonyakuToIroiro/static/js/runtime-main.38f53526.js.map",
+    "static/css/2.80f479d8.chunk.css": "/HonyakuToIroiro/static/css/2.80f479d8.chunk.css",
+    "static/js/2.940ef42d.chunk.js": "/HonyakuToIroiro/static/js/2.940ef42d.chunk.js",
+    "static/js/2.940ef42d.chunk.js.map": "/HonyakuToIroiro/static/js/2.940ef42d.chunk.js.map",
+    "index.html": "/HonyakuToIroiro/index.html",
+    "precache-manifest.92dfff23144be1b59f2e58eb23a9105b.js": "/HonyakuToIroiro/precache-manifest.92dfff23144be1b59f2e58eb23a9105b.js",
+    "service-worker.js": "/HonyakuToIroiro/service-worker.js",
+    "static/css/2.80f479d8.chunk.css.map": "/HonyakuToIroiro/static/css/2.80f479d8.chunk.css.map",
+    "static/css/main.24ec84d3.chunk.css.map": "/HonyakuToIroiro/static/css/main.24ec84d3.chunk.css.map",
+    "static/js/2.940ef42d.chunk.js.LICENSE.txt": "/HonyakuToIroiro/static/js/2.940ef42d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f77acd58.js",
-    "static/css/2.741e3868.chunk.css",
-    "static/js/2.266798cc.chunk.js",
+    "static/js/runtime-main.38f53526.js",
+    "static/css/2.80f479d8.chunk.css",
+    "static/js/2.940ef42d.chunk.js",
     "static/css/main.24ec84d3.chunk.css",
-    "static/js/main.401fb781.chunk.js"
+    "static/js/main.b6459480.chunk.js"
   ]
 }
